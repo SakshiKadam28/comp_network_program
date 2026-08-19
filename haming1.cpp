@@ -150,4 +150,4 @@ Position 2 = 0  <-- Redundant bit
 Position 1 = 0  <-- Redundant bit
 
 ----- FINAL HAMMING CODE -----
-10101001100
+00110010101
